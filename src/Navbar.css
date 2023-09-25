@@ -1,0 +1,99 @@
+ .body{
+  background-image: url("https://th.bing.com/th?id=OIP.6-lQ6l-Jsr0ZvL5H0ZgsiAHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2");
+   height: 100vh;
+ width: 100%;
+ background-size: cover;
+ background-repeat: no-repeat;
+  }
+ .navbar{
+  margin-left: 200px;
+
+ }
+ 
+.navbar li{
+background-color: aliceblue;
+   float: left;
+padding: 10px;
+list-style: none;
+text-decoration: none;
+font-size: xx-large;
+text-decoration: none;
+font-style: normal;
+  
+}
+.navbar li a:hover{
+   background-color: red;
+
+}
+ 
+ 
+  .h1{
+    height: 320px;
+   width: 320px;
+   position: fixed;
+   top: 0;
+   padding-top: 125px;
+
+ }
+ .t1{
+    width: 220px;
+   height: 220px;
+   position: fixed;
+   top: 0;
+   padding-top: 120px;
+ }
+ .a1{
+
+    height: 220px;
+   width: 220px;
+   position: fixed;
+   top: 0;
+   padding-top: 125px;
+
+ }
+ .c1{
+    height: 100px;
+   width: 20px;
+   position: fixed;
+   top: 0;
+   padding-top: 125px;
+ }
+ .r1{
+   background-image: url("https://th.bing.com/th?id=OIP.ms8Sw6r3fEe2KUdojsWxZAHaE6&w=306&h=203&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2");
+   height: 20px;
+   width: 20px;
+   position: fixed;
+   top: 0;
+   padding-top: 125px;
+ }
+ .y1{
+    height: 220px;
+   width: 220px;
+   position: fixed;
+   top: 0;
+   padding-top: 125px;
+   float: left;
+ }
+ .g1{
+   background-image: url("https://th.bing.com/th?id=OIP.VUjOjIuUc8GZL_0iGsPlGwHaKP&w=212&h=293&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2");
+   width: 220px;
+   height: 220px;
+  
+ }
+ .u1{
+   font-size: xx-large;
+   text-align: center;
+   padding-right: 340px;
+   padding-top: 80px;
+   color: aliceblue;
+
+ }
+ .hover{
+   background-color: blueviolet;
+ }
+ .n1{
+    position: relative;
+    margin-top: 20vh;
+    
+ 
+ }
